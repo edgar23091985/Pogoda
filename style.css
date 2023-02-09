@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    }
+body {
+    font-size: 1rem;
+}
+.forecast {
+    font-size: 0.9em;
+}
+span {
+    font-size: 1em;
+}
+li:hover {
+background-color: crimson;
+}
